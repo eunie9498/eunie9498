@@ -2,7 +2,7 @@
 
 
 ### 👀 About Me
-#### - AOS Delveoper  
+#### - AOS Developer  
 #### - Check My Blog [![TechBlog](https://img.shields.io/badge/Tech%20Blog-000000??style=flat&logo=blogger&logoColor=f6f6f6)](https://ddusi-dod.tistory.com/)  
 #### - interested in 📚🏄‍♀️🚴‍♀🎳
 
