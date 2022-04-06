@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=🖐%20Hi,%20I'm%20Eunie&fontAlign=80&fontSize=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=slice&text=🖐%20Hi,%20I'm%20Kong-Droid&fontAlign=80&fontSize=40&color=gradient)
 
 
 ### 👀 About Me
