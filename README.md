@@ -2,9 +2,10 @@
  
 ## Hi, I'm Kong-droid <br>
 
+<br></br>
 
-#### AOS Developer 
-#### interested in 📚 🏄‍ 🚴‍ 🎳
+### AOS Developer 
+#### interested in 📚 🏄‍ 🚴‍ 🎳 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=f6f6f6)](mailto:bvegemilb@gmail.com) 
 [![TechBlog](https://img.shields.io/badge/Blog-9999FF?style=flat&logo=blogger&logoColor=f6f6f6)](https://kong-droid.com/)  
 <br></br>
