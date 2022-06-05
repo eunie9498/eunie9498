@@ -1,6 +1,6 @@
 <div align="center">
  
-## Hi, I'm Kong-droid <br>
+## Hi, I'm Kong-droid 👩🏻‍💻 <br>
  
 <br></br>
 
