@@ -1,13 +1,14 @@
 <div align="center">
  
-## Hi, I'm Kong-droid 👩🏻‍💻 <br>
+## 🍀 Hi, I'm Kong-droid ✨ <br>
  
 <br></br>
 
-### AOS Developer 
-#### interested in 📚 🏄‍ 🚴‍ 🎳 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=f6f6f6)](mailto:bvegemilb@gmail.com) 
-[![TechBlog](https://img.shields.io/badge/Blog-9999FF?style=flat&logo=blogger&logoColor=f6f6f6)](https://kong-droid.com/)  
+### AOS Developer 👩🏻‍💻
+#### interested in 📚 🏄‍ 🚴‍ 🎳 💐
+
+#### Check My Blog [![TechBlog](https://img.shields.io/badge/Blog-9999FF?style=flat&logo=blogger&logoColor=f6f6f6)](https://kong-droid.com/)  
+
 <br></br>
 
 
@@ -25,8 +26,10 @@
 
 
 
+#### Contact ME
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=f6f6f6)](mailto:bvegemilb@gmail.com) 
 
-</div>
+ </div>
 
 <!---
 eunie9498/eunie9498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
