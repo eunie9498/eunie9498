@@ -9,6 +9,10 @@
 
 #### Check My Blog [![TechBlog](https://img.shields.io/badge/Blog-9999FF?style=flat&logo=blogger&logoColor=f6f6f6)](https://kong-droid.com/)  
 
+#### Contact ME
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=f6f6f6)](mailto:bvegemilb@gmail.com) 
+
+
 <br></br>
 
 
@@ -27,9 +31,6 @@
 ![Kong-droid's Stats](https://github-readme-stats.vercel.app/api?username=eunie9498&show_icons=true&icon_color=fff&count_private=true&bg_color=90,BE93C5,7BC6CC&title_color=fff&text_color=fff)
 
 
-
-#### Contact ME
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=f6f6f6)](mailto:bvegemilb@gmail.com) 
 
  </div>
 
