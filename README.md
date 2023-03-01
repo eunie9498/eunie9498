@@ -17,7 +17,8 @@
 
 
 ### 💻 Tech Skill 💻
-[![Android](https://img.shields.io/badge/Android-3DDC84??style=flat&logo=android&logoColor=ffffff)](https://developer.android.com) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF??style=flat&logo=kotlin&logoColor=f6f6f6)](https://developer.android.com/kotlin)   ![Java](https://img.shields.io/badge/Java-007396??style=flat&logo=java&logoColor=ffffff) ![RoomDB](https://img.shields.io/badge/RoomDB-ffffff??style=flat&color=0094ff) <img src="https://img.shields.io/badge/Jetpack-4285F4?style=flat&logo=Jetpack Compose&logoColor=white"/> 
+[![Android](https://img.shields.io/badge/Android-3DDC84??style=flat&logo=android&logoColor=ffffff)](https://developer.android.com) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF??style=flat&logo=kotlin&logoColor=f6f6f6)](https://developer.android.com/kotlin) [![Coroutine](https://img.shields.io/badge/Coroutine-A31C2B??style=flat&logo=coroutine&logoColor=f6f6f6)]([https://developer.android.com/coroutines](https://developer.android.com/kotlin/coroutines?hl=ko)) [![Hilt](https://img.shields.io/badge/Hilt-E1EEC4??style=flat&logo=hilt&logoColor=f6f6f6)]([https://developer.android.com/coroutines](https://developer.android.com/training/dependency-injection/hilt-android?hl=ko))
+![Java](https://img.shields.io/badge/Java-007396??style=flat&logo=java&logoColor=ffffff) ![RoomDB](https://img.shields.io/badge/RoomDB-ffffff??style=flat&color=0094ff) <img src="https://img.shields.io/badge/Jetpack-4285F4?style=flat&logo=Jetpack Compose&logoColor=white"/> 
  <img src="https://img.shields.io/badge/RxJava-B7178C?style=flat&logo=ReactiveX&logoColor=white"/> 
  
 
