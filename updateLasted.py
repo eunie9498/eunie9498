@@ -7,7 +7,7 @@ markdown_text = """
 """
 
 for i in feed['entries'][:5]:
-	markdown_text += f"[{i[;title']}]({i['link']}) <br>"
+	markdown_text += f"[{i['title']}]({i['link']}) <br>"
 
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
