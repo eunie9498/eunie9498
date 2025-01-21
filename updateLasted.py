@@ -3,10 +3,15 @@ uri = "https://kong-droid.com/rss"
 feed = feedparser.parse(uri)
 
 markdown_text = """
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi, I'm Android Developer %20render&fontSize=90)
 
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Hi, I'm Android Developer 👩🏻‍💻 )](https://git.io/typing-svg)
 
-<a href="mailto:bvegemilb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c5221f?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:bvegemilb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c5221f?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
