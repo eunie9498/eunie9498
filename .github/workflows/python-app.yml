@@ -33,7 +33,7 @@ jobs:
         pip install feedparser
     - name: Run Update Python
       run: |
-        python newpost.py
+        python updateLasted.py
     - name: Update README.md
       run: |
         git pull
