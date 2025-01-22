@@ -25,4 +25,4 @@ Android Studio, Figma, Zeplin, GitHub, Git, Swagger, Amplitude, Atom, Slack, Jir
 
 ## ✅  Latest Posting Check Here 
 
-[[Compose] compositionLocal](https://kong-droid.com/entry/Compose-compositionLocal) <br>[[Compose] viewModel , LiveData](https://kong-droid.com/entry/Compose-viewModel) <br>[[프로그래머스 / Kotlin ] 귤 고르기](https://kong-droid.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Kotlin-%EA%B7%A4-%EA%B3%A0%EB%A5%B4%EA%B8%B0) <br>[[Compose] Compose 주의점](https://kong-droid.com/entry/Compose-Compose-%EC%A3%BC%EC%9D%98%EC%A0%90) <br>[[Compose] SideEffect](https://kong-droid.com/entry/Compose-SideEffect) <br>
+[[Compose] Navigation](https://kong-droid.com/entry/Compose-Navigation) <br>[[Compose] Theme](https://kong-droid.com/entry/Compose-Theme) <br>[[Compose] compositionLocal](https://kong-droid.com/entry/Compose-compositionLocal) <br>[[Compose] viewModel , LiveData](https://kong-droid.com/entry/Compose-viewModel) <br>[[프로그래머스 / Kotlin ] 귤 고르기](https://kong-droid.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Kotlin-%EA%B7%A4-%EA%B3%A0%EB%A5%B4%EA%B8%B0) <br>
