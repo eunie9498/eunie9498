@@ -41,13 +41,14 @@ jobs:
         git diff
         git config --local user.email "bvegemilb@gmail.com"
         git config --local user.name "eunie9498"
-        git commit -m "Update README.md" || true
         
-        git push
-        PUSH_RESULT=$?
-
-        if [ $PUSH_RESULT -eq 0 ]; then
-            echo "푸시가 성공적으로 완료되었습니다." | mail -s "푸시 알림" bvegemilb@gmail.com
-        else
-            echo "푸시가 실패했습니다."
+        git commit -m "Update README.md"
+        COMMIT_RESULT=$?
+        if [ $COMMIT_RESULT -eq 0 ]; then
+            git push
+            PUSH_RESULT=$?
+        
+            if [ $PUSH_RESULT -eq 0 ]; then
+                echo "푸시가 성공적으로 완료되었습니다."
+            fi
         fi
