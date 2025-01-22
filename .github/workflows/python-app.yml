@@ -43,3 +43,8 @@ jobs:
         git config --local user.name "eunie9498"
         git commit -m "Update README.md"
         git push
+        if [ $? -eq 0 ]; then
+          echo "푸시가 성공적으로 완료되었습니다." | mail -s "푸시 알림" bvegemilb@gmail.com
+        else
+          echo "푸시가 실패했습니다."
+        fi
