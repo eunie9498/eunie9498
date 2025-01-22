@@ -36,12 +36,13 @@ jobs:
         python updateLasted.py
     - name: Update README.md
       run: |
-        git pull
+        git pull || true 
         git add .
         git diff
         git config --local user.email "bvegemilb@gmail.com"
         git config --local user.name "eunie9498"
-        git commit -m "Update README.md"
+        git commit -m "Update README.md" || true
+        
         git push
         PUSH_RESULT=$?
 
