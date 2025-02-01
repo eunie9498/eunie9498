@@ -25,4 +25,4 @@ Android Studio, Figma, Zeplin, GitHub, Git, Swagger, Amplitude, Atom, Slack, Jir
 
 ## ✅  Latest Posting Check Here 
 
-[[Compose] Compose의 LifeCycle](https://kong-droid.com/entry/Compose-Compose%EC%9D%98-LifeCycle) <br>[[Compose] 단방향 데이터 흐름](https://kong-droid.com/entry/Compose-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84) <br>[[Compose] Navigation](https://kong-droid.com/entry/Compose-Navigation) <br>[[Compose] Theme](https://kong-droid.com/entry/Compose-Theme) <br>[[Compose] compositionLocal](https://kong-droid.com/entry/Compose-compositionLocal) <br>
+[[Compose] Rendering](https://kong-droid.com/entry/Compose-Rendering) <br>[[Compose] Compose의 LifeCycle](https://kong-droid.com/entry/Compose-Compose%EC%9D%98-LifeCycle) <br>[[Compose] 단방향 데이터 흐름](https://kong-droid.com/entry/Compose-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84) <br>[[Compose] Navigation](https://kong-droid.com/entry/Compose-Navigation) <br>[[Compose] Theme](https://kong-droid.com/entry/Compose-Theme) <br>
