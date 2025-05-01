@@ -2,6 +2,8 @@ import feedparser
 uri = "https://kong-droid.com/rss"
 feed = feedparser.parse(uri)
 
+velog_feed = feedparser.parse("https://velog.io/rss/@kongdroid")
+
 markdown_text = """
 
 
@@ -32,6 +34,9 @@ Android Studio, Figma, Zeplin, GitHub, Git, Swagger, Amplitude, Atom, Slack, Jir
 """
 
 for i in feed['entries'][:5]:
+	markdown_text += f"[{i['title']}]({i['link']}) <br>"
+
+for i in velog_feed['entries'][:5]:
 	markdown_text += f"[{i['title']}]({i['link']}) <br>"
 
 
