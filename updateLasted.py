@@ -2,7 +2,7 @@ import feedparser
 uri = "https://kong-droid.com/rss"
 feed = feedparser.parse(uri)
 
-velog_feed = feedparser.parse("https://velog.io/rss/@kongdroid")
+velog_feed = feedparser.parse("https://velog.io/rss/@kong-droid")
 
 markdown_text = """
 
